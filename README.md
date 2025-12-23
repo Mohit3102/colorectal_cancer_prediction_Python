@@ -93,7 +93,3 @@ To develop a classification model that predicts whether a colorectal cancer pati
 **Mohit Padhiyar**  
 Aspiring Data Analyst  
 Python | SQL | Power BI | Excel
-
-
-## 📁 Project Structure
-# colorectal_cancer_prediction
